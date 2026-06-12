@@ -110,8 +110,6 @@ I am passionate about translating theoretical AI research into production-ready 
 
 ## 💼 Skills in Action
 
-## 💼 Skills in Action
-
 <div align="center">
   
   **Languages:** 
