@@ -9,11 +9,17 @@
   <a href="https://linkedin.com/in/muhammad-saddam-185a80215" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:saddamr1838@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <a href="https://github.com/saddam1838" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://kaggle.com/saddam1838" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://medium.com/@saddam.hussain1838" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:saddamr1838@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://saddam-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-9C27B0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -29,7 +35,7 @@ I'm a **Software Engineer** with 2+ years of industry experience building real-t
 I am passionate about translating theoretical AI research into production-ready intelligent systems. 
 
 🔍 **My Core Focus:**
-- ️ **AI/ML Engineering:** Designing scalable, end-to-end machine learning pipelines and production-ready intelligent systems.
+- ⚙️ **AI/ML Engineering:** Designing scalable, end-to-end machine learning pipelines and production-ready intelligent systems.
 - 🧠 **Deep Learning & Neural Operators:** CNNs, Transformers, C-CNO, FiLM conditioning.
 - 👁️ **Computer Vision:** Object Detection (Sparse Attention), D-NeRF, 3D Vision.
 - 💬 **NLP & Generative AI:** LLM Interpretability (LoRA), Multi-Agent Code Generation.
