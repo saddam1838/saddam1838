@@ -52,7 +52,7 @@ I am passionate about translating theoretical AI research into production-ready 
 1. **[Hierarchical Metacognitive Code Generation (HMCG)](https://github.com/saddam1838/hmcg-system)**
    - **Description:** Multi-agent code generation pipeline using DeepSeek-V3.2 with PI/PE validation to catch structural symmetry bugs.
    - **Impact:** Achieved **92% execution success** (vs 58% baseline) and reduced debugging iterations by 56%.
-   - **Tech:** Python, DeepSeek-V3.2, Hugging Face Transformers, Streamlit
+   - **Tech:** Python, DeepSeek-V3.2, Hugging Face Inference API, Streamlit
 
 2. **[Continuous-Time Convolutional Neural Operator (C-CNO)](https://github.com/saddam1838/c-cno-neural-operator)**
    - **Description:** Reproduced C-CNO architecture in PyTorch for time-dependent PDEs (Navier-Stokes) using ReNO-compliant spatial processing and FiLM conditioning.
