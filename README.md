@@ -43,7 +43,7 @@ I am passionate about translating theoretical AI research into production-ready,
 ### 🧠 Advanced AI Research & Architectures
 
 1. **[🛡️ Enterprise Secure RAG](https://github.com/saddam1838/Secure_RAG.git)** 
-   [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://secure-rag.saddam.dev/)
+   [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_it-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://secure-rag.saddam.dev/)
    - **Description:** Production-grade, multi-layer secure Retrieval-Augmented Generation (RAG) platform defending against prompt injection, malicious documents, and unsafe outputs using hybrid search, Cross-Encoder reranking, and LLM-as-a-Judge evaluation.
    - **Impact:** Achieved **95%+ prompt injection detection rate**, 0ms latency local FAISS caching with cloud sync, and strict multi-user data isolation. Fully OWASP/MITRE/NIST compliant.
    - **Tech:** Python, FastAPI, React, Docker, Qdrant, Supabase, Hugging Face (FLAN-T5, Prompt-Guard, DeBERTa)
