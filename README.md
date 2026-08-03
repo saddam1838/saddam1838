@@ -42,7 +42,8 @@ I am passionate about translating theoretical AI research into production-ready,
 
 ### 🧠 Advanced AI Research & Architectures
 
-1. **[🛡️ Enterprise Secure RAG](https://github.com/saddam1838/saddam1838-secure_rag)**
+1. **[🛡️ Enterprise Secure RAG](https://github.com/saddam1838/saddam1838-secure_rag)** 
+   [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://secure-rag.saddam.dev/)
    - **Description:** Production-grade, multi-layer secure Retrieval-Augmented Generation (RAG) platform defending against prompt injection, malicious documents, and unsafe outputs using hybrid search, Cross-Encoder reranking, and LLM-as-a-Judge evaluation.
    - **Impact:** Achieved **95%+ prompt injection detection rate**, 0ms latency local FAISS caching with cloud sync, and strict multi-user data isolation. Fully OWASP/MITRE/NIST compliant.
    - **Tech:** Python, FastAPI, React, Docker, Qdrant, Supabase, Hugging Face (FLAN-T5, Prompt-Guard, DeBERTa)
@@ -88,7 +89,7 @@ I am passionate about translating theoretical AI research into production-ready,
 ## 🛠️ Tech Stack
 
 **AI & Machine Learning:** Deep Learning, Reinforcement Learning, Computer Vision, NLP, Generative AI, Multi-Agent Systems, Neural Operators, AI Security (Prompt Injection Defense, LLM Guardrails)  
-**Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, OpenCV, Scikit-learn, LoRA, DeepSeek  
+**Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React, OpenCV, Scikit-learn, LoRA, DeepSeek  
 **Programming Languages:** Python, C#, C++, SQL  
 **Software Engineering:** Unity 3D, Real-Time Systems, Multiplayer Networking, AWS EC2, Cloud Deployment, OOP, Design Patterns  
 **Tools:** Git, Linux, Docker, VS Code, Google Colab, TensorBoard, Qdrant, Supabase
@@ -98,9 +99,12 @@ I am passionate about translating theoretical AI research into production-ready,
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saddam1838&show_icons=true&theme=dark&layout=compact" alt="saddam1838" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddam1838&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saddam1838&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saddam1838&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddam1838&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
