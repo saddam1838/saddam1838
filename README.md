@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Muhammad Saddam</h1>
-<h3 align="center">AI/ML Engineer | AI Product Development | Data Science & Computer Vision</h3>
+<h3 align="center">MS AI | AI Product Development | Machine Learning & Computer Vision</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Building+Scalable,+User-Centric+AI+Systems+%F0%9F%A4%96;AI+Product+Development+%E2%80%A2+AI+Security+%E2%80%A2+Computer+Vision;Neural+Operators+%E2%80%A2+Multi-Agent+Systems;Bridging+Research+and+Production-Ready+Models" alt="Typing SVG" />
