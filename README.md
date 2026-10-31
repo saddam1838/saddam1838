@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Muhammad Saddam</h1>
-<h3 align="center">MS AI | AI Product Development | Machine Learning & Computer Vision</h3>
+<h3 align="center">MS Artificial Intelligence | Machine Learning & Computer Vision | Intelligent Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Building+Scalable,+User-Centric+AI+Systems+%F0%9F%A4%96;AI+Product+Development+%E2%80%A2+AI+Security+%E2%80%A2+Computer+Vision;Neural+Operators+%E2%80%A2+Multi-Agent+Systems;Bridging+Research+and+Production-Ready+Models" alt="Typing SVG" />
@@ -8,6 +8,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-saddam-185a80215" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/saddam1838" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://kaggle.com/saddam1838" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
@@ -21,20 +24,19 @@
 
 ## 🔬 About Me
 
-I'm a **Software Engineer** with nearly 3 years of professional software development experience, currently completing my **MS in Artificial Intelligence**. I combine a strong software engineering foundation with a **product-oriented mindset** to evaluate technical trade-offs, assess model performance, and build user-focused solutions. 
+I'm a **Software Engineer** with nearly 3 years of professional software development experience, currently pursuing an **MS in Artificial Intelligence** at COMSATS University Islamabad. 
 
-I am passionate about translating theoretical AI research into production-ready, secure, and interpretable intelligent systems that deliver measurable business value.
+My professional background is in Unity and C# development, where I built a strong foundation in software architecture, problem-solving, debugging, performance optimization, and application development. Alongside my industry experience, I have been developing my expertise in Artificial Intelligence through rigorous academic research and hands-on projects.
 
-🔍 **My Core Focus:**
-- 🚀 **AI Product Development:** Bridging the gap between complex AI research and user-centric product value, evaluating technical trade-offs, and defining success metrics.
-- 🛡️ **AI Security:** Secure RAG pipelines, prompt injection defense, LLM guardrails, and multi-layer threat detection (OWASP/MITRE/NIST compliant).
-- 🧠 **Deep Learning & Neural Operators:** CNNs, Transformers, C-CNO, FiLM conditioning, and resolution-invariant operator learning.
-- 👁️ **Computer Vision:** Object Detection (Sparse Attention), D-NeRF, 3D Vision.
-- 💬 **NLP & Generative AI:** LLM Interpretability (LoRA), Multi-Agent Code Generation, Cross-Lingual Alignment.
-- 🤖 **Reinforcement Learning:** Multi-Agent RL for complex physical simulations.
-- 🛠️ **Software Engineering:** Unity 3D, AWS EC2, OOP, Real-Time Systems, Agile/Scrum.
+🔍 **My Technical Interests:**
+- 🔹 **Machine Learning & Data Science:** Applying ML techniques to classification, predictive modelling, model evaluation, and cybersecurity problems.
+- 🔹 **Computer Vision & Deep Learning:** Exploring Transformer-based object detection, image processing, 3D reconstruction, and efficient attention mechanisms.
+- 🔹 **Reinforcement Learning:** Deep Q-Networks, Proximal Policy Optimization (PPO), Reward Modeling.
+- 🔹 **Intelligent & Multi-Agent Systems:** Developing AI-assisted code-generation and validation pipelines, and exploring collaborative agent architectures and intelligent automation.
+- 🔹 **Generative AI & AI Security:** Building Retrieval-Augmented Generation (RAG) applications, prompt-injection detection, LLM guardrails, and multi-layer threat detection.
+- 🔹 **Natural Language Processing:** Exploring language-model interpretability, cross-lingual alignment, and fine-tuning techniques.
 
-🎯 **Goal:** To build robust, scalable, and interpretable AI models that solve real-world problems securely, efficiently, and with a clear focus on user needs.
+🎯 **Goal:** I am particularly interested in developing intelligent systems that combine machine learning, deep learning, and software engineering to solve practical, real-world problems. I enjoy exploring emerging AI technologies, evaluating technical approaches, and turning research ideas into working, scalable solutions.
 
 ---
 
@@ -44,39 +46,39 @@ I am passionate about translating theoretical AI research into production-ready,
 
 1. **[🛡️ Enterprise Secure RAG](https://github.com/saddam1838/Secure_RAG.git)** 
    [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_it-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://secure-rag.saddam.dev/)
-   - **Description:** Production-grade, multi-layer secure Retrieval-Augmented Generation (RAG) platform defending against prompt injection, malicious documents, and unsafe outputs using hybrid search, Cross-Encoder reranking, and LLM-as-a-Judge evaluation.
-   - **Impact:** Achieved **95%+ prompt injection detection rate** and rapid local FAISS caching, balancing retrieval quality, security, and response time while ensuring strict multi-user data isolation aligned with OWASP/MITRE/NIST security guidelines.
+   - **Description:** Developed a secure Retrieval-Augmented Generation (RAG) application using hybrid retrieval, cross-encoder reranking, and LLM-based evaluation to address prompt injection and unsafe outputs.
+   - **Impact:** Achieved a **95%+ prompt-injection detection rate** on the evaluation set through implemented detection and output-safety mechanisms.
    - **Tech:** Python, FastAPI, React, Docker, Qdrant, Supabase, Hugging Face (FLAN-T5, Prompt-Guard, DeBERTa)
 
 2. **[Hierarchical Metacognitive Code Generation (HMCG)](https://github.com/saddam1838/hmcg-system)**
-   - **Description:** Multi-agent code generation pipeline using DeepSeek-V3.2 with PI/PE validation to catch structural symmetry bugs.
-   - **Impact:** Achieved **92% execution success** (vs. 58% baseline) and reduced debugging iterations by 56%, directly improving developer productivity.
-   - **Tech:** Python, DeepSeek-V3.2, Hugging Face Inference API, Streamlit
+   - **Description:** Developed a multi-agent code-generation pipeline using DeepSeek-V3.2 and PI/PE validation to identify and resolve structural symmetry bugs.
+   - **Impact:** Achieved **92% execution success** compared with 58% for the baseline, alongside a 56% reduction in debugging iterations across the evaluated tasks.
+   - **Tech:** Python, DeepSeek-V3.2, Hugging Face Inference API, Streamlit, Multi-Agent Systems
 
-3. **[Continuous-Time Convolutional Neural Operator (C-CNO)](https://github.com/saddam1838/c-cno-neural-operator)**
-   - **Description:** Reproduced C-CNO architecture in PyTorch for time-dependent PDEs (Navier-Stokes) using ReNO-compliant spatial processing and FiLM conditioning.
+3. **[Neuron-Guided Cross-Lingual Alignment for LLMs (NG-CLA)](https://github.com/saddam1838/ng-cla-llm-interpretability)**
+   - **Description:** Investigated mechanistic interpretability in BLOOM-560M, identifying 1,133 language-agnostic shared semantic neurons and applying targeted LoRA fine-tuning.
+   - **Impact:** Improved the Spanish Cross-Retrieval Ratio (XRR) by **3×**, reaching 0.200 on FLORES-101.
+   - **Tech:** Python, PyTorch, Hugging Face Transformers, LoRA, BLOOM-560M
+
+4. **[Random Sparse Attention Transformer for Object Detection](https://github.com/saddam1838/sparse-attention-object-detection)**
+   - **Description:** Developed a custom Transformer-based object detector in PyTorch, replacing global attention with random sparse sampling to reduce attention complexity from $O(N^2)$ to $O(N \cdot K)$.
+   - **Impact:** Achieved **68.7% mAP@0.5** at 18 FPS (2.6× faster than DETR), with an 8.4% relative improvement in small-object detection.
+   - **Tech:** Python, PyTorch, Transformers, PASCAL VOC, ResNet-18
+
+5. **[Hybrid ML Framework for Smart Grid Cybersecurity](https://github.com/saddam1838/smart-grid-fdia-detection)**
+   - **Description:** Implemented a hybrid machine learning pipeline using PCA and Stacked Autoencoders to detect False Data Injection Attacks (FDIA) in smart grids.
+   - **Impact:** Applied class-imbalance handling techniques and achieved **99.32% accuracy** with a Random Forest classifier on the evaluated dataset.
+   - **Tech:** Python, Scikit-learn, PCA, Stacked Autoencoders, Random Forest
+
+6. **[Continuous-Time Convolutional Neural Operator (C-CNO)](https://github.com/saddam1838/c-cno-neural-operator)**
+   - **Description:** Reproduced C-CNO architecture in PyTorch for time-dependent PDEs using ReNO-compliant spatial processing and FiLM conditioning.
    - **Impact:** Demonstrated stable inference and competitive relative L1 errors against 8 baselines for long-horizon prediction.
    - **Tech:** Python, PyTorch, Neural Operators, FiLM
 
-4. **[Neuron-Guided Cross-Lingual Alignment (NG-CLA)](https://github.com/saddam1838/ng-cla-llm-interpretability)**
-   - **Description:** Investigated mechanistic interpretability in BLOOM-560M. Applied targeted LoRA fine-tuning to 1,133 shared semantic neurons.
-   - **Impact:** Boosted Spanish Cross-Retrieval Ratio (XRR) by **3×** (to 0.200) on FLORES-101, significantly improving model utility for non-English speakers.
-   - **Tech:** Python, PyTorch, Hugging Face Transformers, LoRA
-
-5. **[Random Sparse Attention Transformer for Object Detection](https://github.com/saddam1838/sparse-attention-object-detection)**
-   - **Description:** Custom Transformer-based object detector replacing global attention with random sparse sampling to optimize real-time performance.
-   - **Impact:** Reduced complexity from $O(N^2)$ to $O(N \cdot K)$. Achieved **68.7% mAP@0.5** at 18 FPS (2.6× faster than DETR) with an 8.4% relative improvement in small object detection.
-   - **Tech:** Python, PyTorch, Transformers, PASCAL VOC, ResNet-18
-
-6. **[D-NeRF Evaluation for Dynamic Novel View Synthesis](https://github.com/saddam1838/dnerf-view-synthesis-eval)**
+7. **[D-NeRF Evaluation for Dynamic Novel View Synthesis](https://github.com/saddam1838/dnerf-view-synthesis-eval)**
    - **Description:** Comprehensive quantitative evaluation of D-NeRF on 8 non-rigid motion scenes using official PyTorch pretrained models.
    - **Impact:** Mapped performance drops in high-velocity, articulated motion scenarios via extensive ablation studies.
    - **Tech:** Python, PyTorch, CUDA, 3D Vision
-
-7. **[Hybrid ML Framework for Smart Grid Cybersecurity](https://github.com/saddam1838/smart-grid-fdia-detection)**
-   - **Description:** Hybrid ML pipeline for False Data Injection Attack (FDIA) detection utilizing PCA and Stacked Autoencoders to address severe class imbalance.
-   - **Impact:** Achieved **99.32% accuracy** with a Random Forest classifier on the evaluation dataset, providing a highly reliable anomaly detection system.
-   - **Tech:** Python, Scikit-learn, PCA, Stacked Autoencoders
 
 ### 🧪 Software Engineering & Simulation
 > 💡 *I leverage my software engineering background to build robust, real-time systems and simulation environments.*
@@ -88,7 +90,7 @@ I am passionate about translating theoretical AI research into production-ready,
 
 ## 🛠️ Tech Stack
 
-**AI & Machine Learning:** Deep Learning, Reinforcement Learning, Computer Vision, NLP, Generative AI, Multi-Agent Systems, Neural Operators, AI Security  
+**AI & Machine Learning:** Deep Learning, Reinforcement Learning (DQN, PPO), Computer Vision, NLP, Generative AI, Multi-Agent Systems, Neural Operators, AI Security  
 **Product & Strategy:** Agile/Scrum, User Research, PRD Writing, A/B Testing, Stakeholder Management, Technical Trade-off Analysis  
 **Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React, OpenCV, Scikit-learn, LoRA, DeepSeek  
 **Programming Languages:** Python, C#, C++, SQL  
@@ -139,12 +141,14 @@ I am passionate about translating theoretical AI research into production-ready,
 ## 📬 Let's Connect
 
 I am always open to research collaborations, AI internships, and full-time roles in:
-- **AI Product Management / AI Product Engineering**
+- AI Engineering
 - Machine Learning Engineering
+- Data Science
 - AI Security Engineering
 - Computer Vision / NLP Engineering
 - AI Simulation & Reinforcement Learning
-
+- AI Product Management / AI Product Engineering
+  
 <a href="mailto:saddamr1838@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send%20Me%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
