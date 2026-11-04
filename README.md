@@ -24,7 +24,7 @@
 
 ## 🔬 About Me
 
-I'm a **Software Engineer** with nearly 3 years of professional software development experience, currently pursuing an **MS in Artificial Intelligence** at COMSATS University Islamabad. 
+**Software Engineer** with a background in Unity and C# development, currently pursuing an **MS in Artificial Intelligence** at COMSATS University Islamabad. 
 
 My professional background is in Unity and C# development, where I built a strong foundation in software architecture, problem-solving, debugging, performance optimization, and application development. Alongside my industry experience, I have been developing my expertise in Artificial Intelligence through rigorous academic research and hands-on projects.
 
